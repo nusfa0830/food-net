@@ -17,13 +17,13 @@ body{
 background-position-x: 50%;
 }
 .red{
-    font-size: 80px;
+    font-size: 50px;
     color: rgb(216, 146, 54); 
    
 }
 
 h1{
-   font-size: 50px;
+   font-size: 30px;
 }
 p{
     margin: 10px;
@@ -40,6 +40,7 @@ p{
         color: black;
         font-weight: 100;
         border-radius: 25px;
+        padding-bottom: 10px;
     }
     .size{
         font-size: 20px;
@@ -109,4 +110,3 @@ p{
         margin: 10px;
         font-size: 20px;
     }
-    
