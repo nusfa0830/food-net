@@ -5,7 +5,7 @@ body{
 .font{
     padding-top: 70px;
    display: center;
-    font-size: 80px;
+    font-size: 50px;
     text-align: center;
     color:orange;
     background-image: url(img/blck\ 1.jfif);
@@ -23,7 +23,7 @@ background-position-x: 50%;
 }
 
 h1{
-   font-size: 70px;
+   font-size: 50px;
 }
 .flexible-container{
     display: flex;
