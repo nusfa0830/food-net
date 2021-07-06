@@ -10,7 +10,7 @@ body{
     color:orange;
     background-image: url(img/blck\ 1.jfif);
     height: 200px;
-    width:100%;
+    width:auto;
     border-radius: 10px;
     background-size: cover;
     background-position: center;
@@ -24,6 +24,9 @@ background-position-x: 50%;
 
 h1{
    font-size: 50px;
+}
+p{
+    margin: 10px;
 }
 .flexible-container{
     display: flex;
@@ -39,16 +42,18 @@ h1{
         border-radius: 25px;
     }
     .size{
-        font-size: 40px;
+        font-size: 20px;
         margin-left: 10px;
     }
     .i-m-g{
-        width:100%;
+        width:50%;
         height: 80%;
        border-radius: 10%;
     }
     .first{ 
         background-image: url(img/bck\ 7.png);
+        width: auto;
+        height: auto;
         display: flex;
         margin-bottom: 10%;
     }
@@ -87,12 +92,11 @@ h1{
     #bottom{
         padding-top: 10px;
         display: center;
-        font-size: 50px;
         text-align: center;
         color:rgb(179, 118, 7);
         background-image: url(img/blck\ 1.jfif);
-        height: 300px;
-        width:100%;
+        height:auto;
+        width:auto;
         background-size: cover;
         background-position: center;
         padding-bottom: 30px;
