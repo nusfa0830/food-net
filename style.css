@@ -46,8 +46,8 @@ p{
         margin-left: 10px;
     }
     .i-m-g{
-        width:50%;
-        height: 80%;
+        width:auto;
+        height: auto:
        border-radius: 10%;
     }
     .first{ 
