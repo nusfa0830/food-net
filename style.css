@@ -45,14 +45,12 @@ h1{
     .i-m-g{
         width:100%;
         height: 80%;
-        border-radius: 15%;
+       border-radius: 10%;
     }
     .first{ 
         background-image: url(img/bck\ 7.png);
         display: flex;
         margin-bottom: 10%;
-    
-
     }
     .second{
         height: 50%;
